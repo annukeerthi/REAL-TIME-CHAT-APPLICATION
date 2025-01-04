@@ -34,3 +34,4 @@ Components:
    * Listens for incoming messages from connected clients.
    * Broadcasts messages to all connected clients.
    * May optionally handle user authentication, authorization, message persistence, and other functionalities.
+   * [Screenshot 2025-01-04 153444](https://github.com/user-attachments/assets/c9fb4a54-6a57-4cce-b34a-479aeada2d83)
