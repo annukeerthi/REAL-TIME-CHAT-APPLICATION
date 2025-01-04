@@ -10,7 +10,7 @@ Domin:Full Stack deveploer
 
 Mentor name :Neha
 
-Duration :dec 20th,2024 to jan 20th ,2024
+Duration :dec 20th,2024 to jan 20th ,2025
 
 Overview: 
 A real-time chat application using WebSockets or Socket.IO, incorporating insights from potential ratings and addressing mentioned requirements:
